@@ -1413,15 +1413,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4266934838423042, guid: a710906475af94f6387e28fa031b0c22, type: 2}
       propertyPath: m_LocalScale.x
-      value: 0.5
+      value: 0.8
       objectReference: {fileID: 0}
     - target: {fileID: 4266934838423042, guid: a710906475af94f6387e28fa031b0c22, type: 2}
       propertyPath: m_LocalScale.y
-      value: 0.5
+      value: 0.8
       objectReference: {fileID: 0}
     - target: {fileID: 4266934838423042, guid: a710906475af94f6387e28fa031b0c22, type: 2}
       propertyPath: m_LocalScale.z
-      value: 0.5
+      value: 0.8
       objectReference: {fileID: 0}
     - target: {fileID: 4396269507497312, guid: a710906475af94f6387e28fa031b0c22, type: 2}
       propertyPath: m_LocalRotation.x
