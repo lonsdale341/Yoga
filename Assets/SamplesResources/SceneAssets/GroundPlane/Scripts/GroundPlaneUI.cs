@@ -84,7 +84,7 @@ public class GroundPlaneUI : MonoBehaviour
 
             if (PlaneManager.planeMode == PlaneManager.PlaneMode.GROUND)
             {
-                m_Instructions.text = "Tap to place Personage";
+                m_Instructions.text = "Tap to place Trainer";
             }
             if (!PlaneManager.AstronautIsPlaced)
             {
