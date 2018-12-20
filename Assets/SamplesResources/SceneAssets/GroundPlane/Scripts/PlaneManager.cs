@@ -163,6 +163,7 @@ public class PlaneManager : MonoBehaviour
     }
     public void ReloadScene()
     {
+        Debug.Log("test");
         SceneManager.LoadScene("Main");
     }
     public void PlaceObjectInMidAir(Transform midAirTransform)

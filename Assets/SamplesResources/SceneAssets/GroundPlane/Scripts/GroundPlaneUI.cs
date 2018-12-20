@@ -45,7 +45,7 @@ public class GroundPlaneUI : MonoBehaviour
     #region MONOBEHAVIOUR_METHODS
     void Start()
     {
-        m_ResetButton.interactable = false;
+        m_ResetButton.interactable = true;
 
      //   m_Title.text = TITLE_PLACEMENT;
         m_TrackerStatus.text = "";
