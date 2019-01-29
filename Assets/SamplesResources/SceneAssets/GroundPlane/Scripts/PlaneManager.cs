@@ -159,6 +159,7 @@ public class PlaneManager : MonoBehaviour
 
                 
             }
+            m_PlaneFinder.PlaneIndicator.SetActive(false);
         }
     }
     public void ReloadScene()
